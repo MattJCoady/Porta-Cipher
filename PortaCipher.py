@@ -104,8 +104,6 @@ for char in messL:
 
         keyL2_index += 1
     
-    
-
     if keyL2_index == len(keyL2):
         
         break
@@ -115,22 +113,3 @@ for char in messL:
 encrypted_message = ''.join(encrypted_message)
 
 print("Encrypted Message is", encrypted_message)
-
-    
-
-    
-    
-    
-
-
-            
-
-        
-
-        
-
-    
-    
-
-
-
